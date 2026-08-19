@@ -11,7 +11,9 @@ Simple yet efficient minecraft cmd based installer.
 ```
 git clone https://github.com/Sharpnesse49/McBuilder && cd McBuilder && python3 mcbuilder.py
 ```
-### How to use?
+### Use
 Just launch the script, follow the instructions (version, name) and watch the magic!
-### Adding a playername
-Open start.py with a notepad to change the default playername. 
+### Requirement
+You must have python 3 and also java installed (lookup your mc version java requirement)
+### Editing start.py
+You can edit start.py to add modloader support or to change your nickname.
