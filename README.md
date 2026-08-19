@@ -7,6 +7,9 @@
 
 Simple yet efficient minecraft cmd based installer.
 ```
+### In Action!
+https://github.com/user-attachments/assets/259870ea-d886-4d66-a670-e33ff94683ca
+
 ### Installation
 ```
 git clone https://github.com/Sharpnesse49/McBuilder && cd McBuilder && python3 mcbuilder.py
