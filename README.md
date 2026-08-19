@@ -9,7 +9,7 @@ Simple yet efficient minecraft cmd based installer.
 ```
 ### Installation
 ```
-curl -o mcbuilder.py https://github.com/Sharpnesse49/McBuilder/blob/main/mcbuilder.py
+git clone https://github.com/Sharpnesse49/McBuilder && python3 mcbuilder.py
 ```
 ### How to use?
 Just launch the script, follow the instructions (version, name) and watch the magic!
