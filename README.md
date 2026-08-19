@@ -14,6 +14,7 @@ git clone https://github.com/Sharpnesse49/McBuilder && cd McBuilder && python3 m
 ### Use
 Just launch the script, follow the instructions (version, name) and watch the magic!
 ### Requirement
-You must have python 3 and also java installed (lookup your mc version java requirement)
+You must have python 3 and also java installed (lookup your mc version [java requirement](https://minecraft.wiki/w/Tutorial:Update_Java)).                                                          
+To manage your java versions I recommend [mise](https://mise.jdx.dev/)
 ### Editing start.py
 You can edit start.py to add modloader support or to change your nickname.
